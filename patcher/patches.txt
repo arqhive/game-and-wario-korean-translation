@@ -1,0 +1,4 @@
+[GameWarioKR_SharedFontKorean]
+moduleMatches = 0x1e94b0b4
+# OSGetSharedData(2=FONT_STANDARD) -> 1=FONT_KOREAN (shared font CafeKr)
+0x02080528 = li r3, 1

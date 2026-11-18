@@ -1,0 +1,6 @@
+[Definition]
+titleIds = 0005000010112D00
+name = Korean Patch
+path = "Game & Wario/Mods/Korean Patch"
+description = 게임앤와리오 한글 패치
+version = 7
